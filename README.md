@@ -13,7 +13,7 @@ This starter kit is a bare bones modification from [Create React App](https://gi
 
 ## Getting Started
 ```bash
-$ git clone https://github.com/helw150/Seact-Redux-Starter.git <my-project-name>
+$ git clone https://github.com/helw150/React-Redux-Starter.git <my-project-name>
 $ cd <my-project-name>
 $ npm i
 $ npm start
